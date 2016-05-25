@@ -1,0 +1,11 @@
+start
+0-399:http://www.baidu.com;
+500:http://www.zhihu.com;
+501:http://www.douban.com;
+502:http://www.mtime.com;
+503:http://www.mi.com;
+504:http://www.jd.com;
+600-799:http://www.alibaba.com;
+800-899:http://www.taobao.com;
+900-959:http://www.so.com;
+default:http://www.baidu.com;
